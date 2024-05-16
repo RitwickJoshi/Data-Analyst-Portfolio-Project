@@ -10,3 +10,5 @@
 
 5. [one more yt video for importing csv into ssms](https://youtu.be/K5_u6Xrbl_s?feature=shared)
 
+6. [Apocolypse Dataset](https://github.com/AlexTheAnalyst/Power-BI/tree/main)
+
